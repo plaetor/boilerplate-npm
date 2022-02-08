@@ -1,6 +1,14 @@
 {
-	"author": "Asani",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Plaetor",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"node.js",
+		"tutorial"
+	],
+	"license": "Use as you see fit",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
